@@ -1,43 +1,50 @@
 # Bank-Loan-and-debit-credit-analysis
 This repository contains two end-to-end Banking Data Analytics projects focused on analyzing loan performance and customer debit/credit transactions using data analytics and visualization techniques.
+
+
 Loan Dashboard KPI Description
-1. Total Loan Amount Funded: Measures the total value of loans disbursed.\
 
-2. Total Loans: Tracks the number of loans issued.\
+1. Total Loan Amount Funded: Measures the total value of loans disbursed.
 
-3. Total Collection: Reflects repayment performance, including principal and interest.\
+2. Total Loans: Tracks the number of loans issued.
 
-4. Total Interest: Captures revenue from loan interest.\
+3. Total Collection: Reflects repayment performance, including principal and interest.
 
-5. Branch-Wise Performance: Analyzes revenue (interest, fees, total) by branch.\
+4. Total Interest: Captures revenue from loan interest.
 
-6. State-Wise Loan: Shows geographic distribution of loans.\
+5. Branch-Wise Performance: Analyzes revenue (interest, fees, total) by branch.
 
-7. Religion-Wise Loan: Monitors loan distribution across religious demographics.\
+6. State-Wise Loan: Shows geographic distribution of loans.
 
-8. Product Group-Wise Loan: Categorizes loans by product types (e.g., personal, auto)\
+7. Religion-Wise Loan: Monitors loan distribution across religious demographics.
 
-9. Disbursement Trend: Tracks changes in loan disbursements over time.\
+8. Product Group-Wise Loan: Categorizes loans by product types (e.g., personal, auto)
 
-10. Grade-Wise Loan: Assesses portfolio risk by borrower credit grades.\
+9. Disbursement Trend: Tracks changes in loan disbursements over time.
 
-11. Default Loan Count: Counts loans in default.\
+10. Grade-Wise Loan: Assesses portfolio risk by borrower credit grades.
 
-12. Delinquent Client Count: Tracks borrowers with missed payments.\
+11. Default Loan Count: Counts loans in default.
 
-13. Delinquent Loan Rate: Percentage of loans overdue in the portfolio.\
+12. Delinquent Client Count: Tracks borrowers with missed payments.
 
-14. Default Loan Rate: Proportion of defaulted loans to the total portfolio.\
+13. Delinquent Loan Rate: Percentage of loans overdue in the portfolio.
 
-15. Loan Status-Wise Loan: Breaks down loans by status (active, delinquent, closed).\
+14. Default Loan Rate: Proportion of defaulted loans to the total portfolio.
 
-16. Age Group-Wise Loan: Categorizes loans by borrowers’ age groups.\
+15. Loan Status-Wise Loan: Breaks down loans by status (active, delinquent, closed).
 
-17. Loan Maturity: Tracks the timeline until full repayment. \
+16. Age Group-Wise Loan: Categorizes loans by borrowers’ age groups.
 
-18. No Verified Loans: Identifies loans without proper verification.\
+17. Loan Maturity: Tracks the timeline until full repayment.
+18. 
+19. No Verified Loans: Identifies loans without proper verification.
+
+    
 
 Bank Debit and Credit Dashboard KPI Description
+
+
 1.Total Credit Amount: Sum of the Amount column where Transaction Type = "Credit".
 
 2.Total Debit Amount: Sum of the Amount column where Transaction Type = "Debit".
