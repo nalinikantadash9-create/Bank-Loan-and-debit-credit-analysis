@@ -37,10 +37,11 @@ Loan Dashboard KPI Description
 16. Age Group-Wise Loan: Categorizes loans by borrowers’ age groups.
 
 17. Loan Maturity: Tracks the timeline until full repayment.
-18. 
+    
 19. No Verified Loans: Identifies loans without proper verification.
 
     
+
 
 Bank Debit and Credit Dashboard KPI Description
 
