@@ -65,3 +65,36 @@ This repository contains two end-to-end Banking Data Analytics projects focused 
 **12.Suspicious Transaction Frequency:** Count of flagged high-risk transactions over a period.
 
 
+
+# ✅ Tools Used:
+- Excel – for initial data exploration and dashboards
+- Power BI – for interactive KPI dashboards
+- Tableau – for advanced data storytelling
+- MySQL – for writing custom queries and KPI calculations
+
+# 🔁 Project Workflow:
+**1. 📥 Data Collection & Understanding:**
+- Collected raw bank data including:Loan application data , Credit and debit transaction records
+- Cleaned and pre-processed data for consistency.
+
+**2. 📊 Excel Dashboard:**
+- Created initial dashboards in Excel
+- Performed basic analysis: totals, trends, pivot tables
+- Shared Excel version with stakeholders for early feedback.
+
+**3. 📈 Power BI Dashboard:**
+- Imported cleaned data into Power BI
+- Created visual dashboards for: Monthly loan applications, Credit vs debit transaction trends , Branch-wise performance
+- Added slicers for dynamic filtering by branch, date, and transaction type
+
+**4. 📉 Tableau Dashboard:** 
+- Developed a more advanced dashboard using Tableau
+- Focused on better visual storytelling and interactivity
+- Enhanced the UI with filters and calculated fields.
+
+**5. 🧮 SQL Queries for KPIs (MySQL):** 
+- Connected data to MySQL database
+- Wrote custom queries to calculate KPIs such as: Loan approval rate, Credit-to-debit ratio, Branch-wise growth in transactions , Monthly and quarterly summaries.
+
+
+
