@@ -1,8 +1,7 @@
 # Bank-Loan-and-debit-credit-analysis
 This repository contains two end-to-end Banking Data Analytics projects focused on analyzing loan performance and customer debit/credit transactions using data analytics and visualization techniques.
 
-# DATA Set
-**1. Bank Loan dataset (Bank Data Analystics.xlsx)
+
 # Questions(KPIs)
 ## Loan Dashboard KPI Description 
 **1. Total Loan Amount Funded:** Measures the total value of loans disbursed.\
