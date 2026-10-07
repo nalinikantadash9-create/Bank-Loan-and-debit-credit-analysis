@@ -130,7 +130,13 @@ A few urban branches contribute to a significant portion of loan disbursements, 
 - **Document Data Dictionary:** Maintain metadata for all columns used in KPIs for transparency and reusability.
 
 # Final Conclusion
-This Bank Analytics Project demonstrates the full cycle of data analysis — from raw data to insightful dashboards — across multiple tools. It enabled data-driven decision-making by offering actionable KPIs on loans, credit, and debit transactions. With future improvements like real-time analytics and predictive models, this project can scale to enterprise-grade financial intelligence solutions
+This Bank Analytics Project demonstrates the full cycle of data analysis — from raw data to insightful dashboards — across multiple tools. It enabled data-driven decision-making by offering actionable KPIs on loans, credit, and debit transactions. With future improvements like real-time analytics and predictive models, this project can scale to enterprise-grade financial intelligence solutions.
+
+
+## 👤 Author
+
+**Nalinikanta Dash**
+Data Analyst | Excel · Power BI · SQL · Tableau · Python
 
 
 
