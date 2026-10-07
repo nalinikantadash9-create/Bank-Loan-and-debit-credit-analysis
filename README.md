@@ -83,6 +83,14 @@ This repository contains two end-to-end Banking Data Analytics projects focused 
 - Performed basic analysis: totals, trends, pivot tables
 - Shared Excel version with stakeholders for early feedback.
 
+ ## Dashboards ( Excel )
+
+### 1. Bank Loan Analytics Dashboard
+![Bank Loan Analytics Dashboard](images/bank_loan_dashboard.png)
+
+### 2. Bank Debit & Credit Dashboard
+![Bank Debit and Credit Dashboard](images/debit_credit_dashboard.png)
+
 **3. 📈 Power BI Dashboard:**
 - Imported cleaned data into Power BI
 - Created visual dashboards for: Monthly loan applications, Credit vs debit transaction trends , Branch-wise performance
@@ -131,4 +139,7 @@ A few urban branches contribute to a significant portion of loan disbursements, 
 
 # Final Conclusion
 This Bank Analytics Project demonstrates the full cycle of data analysis — from raw data to insightful dashboards — across multiple tools. It enabled data-driven decision-making by offering actionable KPIs on loans, credit, and debit transactions. With future improvements like real-time analytics and predictive models, this project can scale to enterprise-grade financial intelligence solutions
+
+
+
 
